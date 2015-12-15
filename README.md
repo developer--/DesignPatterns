@@ -1,2 +1,2 @@
 # DesignPatterns
-Testing patterns
+Testing with patterns
